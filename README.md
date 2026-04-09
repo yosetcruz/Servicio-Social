@@ -1,6 +1,7 @@
 # Análisis de datos relacionados al bosón Z
 Este proyecto analiza la producción y desintegración del bosón Z en tres muestras distintas de datos ( Jpsimumu.csv, Dimuon_DoubleMu.csv y Nueva_muestr.root).
-El objetivo es reconstruir la masa invariante del sistema dimuónico y validar la señal del bosón Z alrededor de ~91 GeV. 
+Para el caso del archivo Jpsimumu.csv el objetivo es reconstruir el Jpsi que tiene energia en 3.097 GeV.
+El objetivo para las dos muestras restantes es reconstruir la masa invariante del sistema dimuónico y validar la señal del bosón Z alrededor de ~91 GeV. 
 
 ### ¿Qué es un bosón?
 
